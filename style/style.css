@@ -165,7 +165,7 @@ main {
     main {
         display: flex;
         flex-flow: row nowrap;
-        max-width: 620px;
+        max-width: 640px;
     }
     .img-container picture img {
         border-radius: 0;
@@ -173,7 +173,7 @@ main {
         border-bottom-left-radius: .6rem;
     }
     .content-container {
-        max-width: 310px;
+        max-width: 320px;
         display: flex;
         justify-content: space-between;
         padding: 2.4rem;
